@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
+
 body {
 	font-family: 'Montserrat', sans-serif !important;
 	font-weight: 300;
@@ -6,6 +7,9 @@ body {
 	line-height: 1.7;
 	color: #292e34;
 	background-color: #8ecea8 !important;
+}
+img{
+	margin: 10px;
 }
 select{
 	background-color: #FCD469;
@@ -29,4 +33,13 @@ select:hover{
 select option:hover{
 	background-color: #292e34 !important;
 	color: #FCD469 !important;
+}
+footer{
+	background-color:#ee5495;
+	position: fixed;
+	bottom: 0;
+	font-size: 1.25em;
+	color: white;
+	width: 100%;
+	text-align: center;
 }

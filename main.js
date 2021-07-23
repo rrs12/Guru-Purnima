@@ -32,5 +32,8 @@ function message() {
     if (select == "Prashant") {
         document.getElementById("message").innerHTML = "Thank You Sir for teaching me Art & Craft with perfection."
     }
+    if (select == "Mitali") {
+        document.getElementById("message").innerHTML = "Thank You Ma'am for teaching me WE with perfection."
+    }
 
 }
