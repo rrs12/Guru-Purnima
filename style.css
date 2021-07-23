@@ -9,7 +9,10 @@ body {
 	background-color: #8ecea8 !important;
 }
 img{
-	margin: 10px;
+	margin-right: 20px !important;
+	margin-left: 20px !important;
+	height: 50em;
+	width: 50em;
 }
 select{
 	background-color: #FCD469;
@@ -17,7 +20,7 @@ select{
 	font-weight: 700;
 	border: none;
 	color: #292e34;
-	margin-bottom: 50px !important;
+	margin-bottom: 20px !important;
 }
 image,h1,select{
 	margin: 10px;
@@ -42,4 +45,7 @@ footer{
 	color: white;
 	width: 100%;
 	text-align: center;
+}
+h2{
+	margin-bottom: 50px !important;
 }
